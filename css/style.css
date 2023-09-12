@@ -11,6 +11,7 @@ h1 {
   float: left;
   border: solid;
   margin: 10px;
+  background-color: #999999;
 }
 
 .heading {
@@ -26,4 +27,16 @@ h1 {
 
 h2 {
   font-size: 0.875em;
+}
+
+#chicken {
+  background-color: #D59898;
+}
+
+#beef {
+  background-color: #C14543;
+}
+
+#sushi {
+  background-color: #E5D198;
 }
