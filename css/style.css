@@ -13,10 +13,17 @@ h1 {
   margin: 10px;
 }
 
+.heading {
+  width: 60px;
+  float: right;
+  border-style: none none solid solid;
+  text-align: center;
+}
+
+.content {
+  clear: both;
+}
+
 h2 {
-  margin: 0;
-  padding: 0;
   font-size: 0.875em;
-  text-align: right;
-  border: solid;
 }
