@@ -10,12 +10,6 @@ h1 {
   margin-bottom: 15px;
 }
 
-.container {
-  position: absolute;
-  display: flex;
-  justify-content: space-evenly;
-}
-
 .card {
   float: left;
   border: solid;
