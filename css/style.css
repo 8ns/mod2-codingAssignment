@@ -54,7 +54,8 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 30%;
+    margin: 20px;
   }
   .col-lg-5 {
     width: 41.66%;
