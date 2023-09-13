@@ -5,7 +5,14 @@
 }
 
 h1 {
+  padding-top: 25px;
   text-align: center;
+}
+
+.container {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .card {
