@@ -137,5 +137,6 @@ p {
   }
   .col-md-12 {
     width: 96.2%;
+    margin-left: 10px;
   }
 }
