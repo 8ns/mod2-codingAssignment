@@ -117,7 +117,8 @@ p {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 50%;
+    width: 47%;
+    margin: 10px;
   }
   .col-md-7 {
     width: 58.33%;
@@ -135,6 +136,6 @@ p {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 100%;
+    width: 96.2%;
   }
 }
