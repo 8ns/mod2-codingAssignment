@@ -10,8 +10,12 @@ h1 {
   margin-bottom: 15px;
 }
 
-.card {
+.container {
   width: 100%;
+}
+
+.card {
+  width: 90%;
   border: solid;
   margin-right: auto;
   margin-left: auto;
