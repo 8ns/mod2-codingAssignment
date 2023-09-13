@@ -19,11 +19,11 @@ h1 {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
   background-color: #999999;
 }
 
 .heading {
+  margin: 0;
   width: 30%;
   float: right;
   border-style: none none solid solid;
@@ -99,7 +99,7 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
-    border: 1px solid green;
+    border: 1px solid black;
   }
   .col-md-1 {
     width: 8.33%;
