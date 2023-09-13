@@ -32,6 +32,7 @@ h1 {
 
 p {
   padding: 10px;
+  padding-top: 30px;
 }
 
 #chicken {
@@ -138,5 +139,18 @@ p {
   .col-md-12 {
     width: 96.2%;
     margin-left: 10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .card {
+    border: 1px solid black;
+    width: 90%;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    font-family: Helvetica;
+    background-color: #999999;
   }
 }
