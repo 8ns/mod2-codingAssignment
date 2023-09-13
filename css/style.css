@@ -15,7 +15,7 @@ h1 {
 .card {
   border: 1px solid black;
   width: 90%;
-  height: 150px;
+  height: fit-content;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
@@ -28,6 +28,10 @@ h1 {
   float: right;
   border-style: none none solid solid;
   text-align: center;
+}
+
+h2 {
+  font-size: 0.85em;
 }
 
 p {
