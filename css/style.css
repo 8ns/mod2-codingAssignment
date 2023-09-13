@@ -7,6 +7,7 @@
 h1 {
   padding-top: 25px;
   text-align: center;
+  margin-bottom: 15px;
 }
 
 .container {
@@ -52,4 +53,14 @@ p {
 
 #sushi {
   background-color: #E5D198;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #chicken, #beef  {
+    width: 50%;
+  }
+
+  #sushi {
+    width: 100%;
+  }
 }
